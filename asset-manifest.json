@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/anitab-org.github.io/static/css/main.69eda509.chunk.css",
-    "main.js": "/anitab-org.github.io/static/js/main.73292803.chunk.js",
-    "main.js.map": "/anitab-org.github.io/static/js/main.73292803.chunk.js.map",
+    "main.js": "/anitab-org.github.io/static/js/main.8db52318.chunk.js",
+    "main.js.map": "/anitab-org.github.io/static/js/main.8db52318.chunk.js.map",
     "runtime-main.js": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js",
     "runtime-main.js.map": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js.map",
-    "static/js/2.f5e89ec0.chunk.js": "/anitab-org.github.io/static/js/2.f5e89ec0.chunk.js",
-    "static/js/2.f5e89ec0.chunk.js.map": "/anitab-org.github.io/static/js/2.f5e89ec0.chunk.js.map",
+    "static/js/2.d7755177.chunk.js": "/anitab-org.github.io/static/js/2.d7755177.chunk.js",
+    "static/js/2.d7755177.chunk.js.map": "/anitab-org.github.io/static/js/2.d7755177.chunk.js.map",
     "index.html": "/anitab-org.github.io/index.html",
-    "precache-manifest.e8a07ec2b8c6239f56afb3ce0823e09e.js": "/anitab-org.github.io/precache-manifest.e8a07ec2b8c6239f56afb3ce0823e09e.js",
+    "precache-manifest.d53601e1987f79fc015c4c0eeb617ba4.js": "/anitab-org.github.io/precache-manifest.d53601e1987f79fc015c4c0eeb617ba4.js",
     "service-worker.js": "/anitab-org.github.io/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/anitab-org.github.io/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.f5e89ec0.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.f5e89ec0.chunk.js.LICENSE.txt",
+    "static/js/2.d7755177.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.d7755177.chunk.js.LICENSE.txt",
     "static/media/about.png": "/anitab-org.github.io/static/media/about.4e44d31d.png",
     "static/media/contribute.png": "/anitab-org.github.io/static/media/contribute.552c3589.png",
     "static/media/linkedin-logo.png": "/anitab-org.github.io/static/media/linkedin-logo.5a653ec3.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f14f3321.js",
-    "static/js/2.f5e89ec0.chunk.js",
+    "static/js/2.d7755177.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.73292803.chunk.js"
+    "static/js/main.8db52318.chunk.js"
   ]
 }
