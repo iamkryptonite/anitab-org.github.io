@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anitab-org.github.io/static/css/main.69eda509.chunk.css",
-    "main.js": "/anitab-org.github.io/static/js/main.8db52318.chunk.js",
-    "main.js.map": "/anitab-org.github.io/static/js/main.8db52318.chunk.js.map",
+    "main.js": "/anitab-org.github.io/static/js/main.9761f1b2.chunk.js",
+    "main.js.map": "/anitab-org.github.io/static/js/main.9761f1b2.chunk.js.map",
     "runtime-main.js": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js",
     "runtime-main.js.map": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js.map",
     "static/js/2.d7755177.chunk.js": "/anitab-org.github.io/static/js/2.d7755177.chunk.js",
     "static/js/2.d7755177.chunk.js.map": "/anitab-org.github.io/static/js/2.d7755177.chunk.js.map",
     "index.html": "/anitab-org.github.io/index.html",
-    "precache-manifest.d53601e1987f79fc015c4c0eeb617ba4.js": "/anitab-org.github.io/precache-manifest.d53601e1987f79fc015c4c0eeb617ba4.js",
+    "precache-manifest.6d9128135f23e4a637069b10e3b87d97.js": "/anitab-org.github.io/precache-manifest.6d9128135f23e4a637069b10e3b87d97.js",
     "service-worker.js": "/anitab-org.github.io/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/anitab-org.github.io/static/css/main.69eda509.chunk.css.map",
     "static/js/2.d7755177.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.d7755177.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.f14f3321.js",
     "static/js/2.d7755177.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.8db52318.chunk.js"
+    "static/js/main.9761f1b2.chunk.js"
   ]
 }

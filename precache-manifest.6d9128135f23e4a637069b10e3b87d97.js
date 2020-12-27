@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f942f0ec120b6ca8f9aba2ee8e98774",
+    "revision": "d34de3e9f08a0d2089a7478f89765ceb",
     "url": "/anitab-org.github.io/index.html"
   },
   {
-    "revision": "9a280e35adde7083a277",
+    "revision": "68e4338211d913e27cd1",
     "url": "/anitab-org.github.io/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anitab-org.github.io/static/js/2.d7755177.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a280e35adde7083a277",
-    "url": "/anitab-org.github.io/static/js/main.8db52318.chunk.js"
+    "revision": "68e4338211d913e27cd1",
+    "url": "/anitab-org.github.io/static/js/main.9761f1b2.chunk.js"
   },
   {
     "revision": "f849ebd811bad00d0ce7",
