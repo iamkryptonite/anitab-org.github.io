@@ -1,28 +1,40 @@
 {
   "files": {
     "main.css": "/anitab-org.github.io/static/css/main.69eda509.chunk.css",
-    "main.js": "/anitab-org.github.io/static/js/main.9761f1b2.chunk.js",
-    "main.js.map": "/anitab-org.github.io/static/js/main.9761f1b2.chunk.js.map",
+    "main.js": "/anitab-org.github.io/static/js/main.edb0d6dc.chunk.js",
+    "main.js.map": "/anitab-org.github.io/static/js/main.edb0d6dc.chunk.js.map",
     "runtime-main.js": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js",
     "runtime-main.js.map": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js.map",
-    "static/js/2.d7755177.chunk.js": "/anitab-org.github.io/static/js/2.d7755177.chunk.js",
-    "static/js/2.d7755177.chunk.js.map": "/anitab-org.github.io/static/js/2.d7755177.chunk.js.map",
+    "static/js/2.039a2631.chunk.js": "/anitab-org.github.io/static/js/2.039a2631.chunk.js",
+    "static/js/2.039a2631.chunk.js.map": "/anitab-org.github.io/static/js/2.039a2631.chunk.js.map",
     "index.html": "/anitab-org.github.io/index.html",
-    "precache-manifest.6d9128135f23e4a637069b10e3b87d97.js": "/anitab-org.github.io/precache-manifest.6d9128135f23e4a637069b10e3b87d97.js",
+    "precache-manifest.05288865a0b7d19f40cf7a1e011a65e0.js": "/anitab-org.github.io/precache-manifest.05288865a0b7d19f40cf7a1e011a65e0.js",
     "service-worker.js": "/anitab-org.github.io/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/anitab-org.github.io/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.d7755177.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.d7755177.chunk.js.LICENSE.txt",
+    "static/js/2.039a2631.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.039a2631.chunk.js.LICENSE.txt",
+    "static/media/Frame 1.png": "/anitab-org.github.io/static/media/Frame 1.7c53c6e8.png",
     "static/media/about.png": "/anitab-org.github.io/static/media/about.4e44d31d.png",
+    "static/media/code.png": "/anitab-org.github.io/static/media/code.1587289c.png",
     "static/media/contribute.png": "/anitab-org.github.io/static/media/contribute.552c3589.png",
+    "static/media/design_community.png": "/anitab-org.github.io/static/media/design_community.dc7f5974.png",
+    "static/media/documentation_training.png": "/anitab-org.github.io/static/media/documentation_training.9c56f1c3.png",
+    "static/media/getting-started.png": "/anitab-org.github.io/static/media/getting-started.ce74f5c4.png",
+    "static/media/instagram_logo.png": "/anitab-org.github.io/static/media/instagram_logo.3ce9c95b.png",
+    "static/media/landing.png": "/anitab-org.github.io/static/media/landing.1c27c683.png",
     "static/media/linkedin-logo.png": "/anitab-org.github.io/static/media/linkedin-logo.5a653ec3.png",
     "static/media/logo.png": "/anitab-org.github.io/static/media/logo.45cc4ce0.png",
     "static/media/our-projects.png": "/anitab-org.github.io/static/media/our-projects.b19b61ad.png",
-    "static/media/placeholder.png": "/anitab-org.github.io/static/media/placeholder.66c6a83d.png"
+    "static/media/our_events.png": "/anitab-org.github.io/static/media/our_events.1f92ca22.png",
+    "static/media/placeholder.png": "/anitab-org.github.io/static/media/placeholder.66c6a83d.png",
+    "static/media/project_management.png": "/anitab-org.github.io/static/media/project_management.f4a56233.png",
+    "static/media/research_outreach.png": "/anitab-org.github.io/static/media/research_outreach.e08739fb.png",
+    "static/media/testing.png": "/anitab-org.github.io/static/media/testing.1d609eba.png",
+    "static/media/twitter_logo.png": "/anitab-org.github.io/static/media/twitter_logo.b696dd8e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f14f3321.js",
-    "static/js/2.d7755177.chunk.js",
+    "static/js/2.039a2631.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.9761f1b2.chunk.js"
+    "static/js/main.edb0d6dc.chunk.js"
   ]
 }
