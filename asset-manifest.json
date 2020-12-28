@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/anitab-org.github.io/static/css/main.69eda509.chunk.css",
-    "main.js": "/anitab-org.github.io/static/js/main.edb0d6dc.chunk.js",
-    "main.js.map": "/anitab-org.github.io/static/js/main.edb0d6dc.chunk.js.map",
+    "main.js": "/anitab-org.github.io/static/js/main.8bde41b4.chunk.js",
+    "main.js.map": "/anitab-org.github.io/static/js/main.8bde41b4.chunk.js.map",
     "runtime-main.js": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js",
     "runtime-main.js.map": "/anitab-org.github.io/static/js/runtime-main.f14f3321.js.map",
-    "static/js/2.039a2631.chunk.js": "/anitab-org.github.io/static/js/2.039a2631.chunk.js",
-    "static/js/2.039a2631.chunk.js.map": "/anitab-org.github.io/static/js/2.039a2631.chunk.js.map",
+    "static/js/2.2ab9254c.chunk.js": "/anitab-org.github.io/static/js/2.2ab9254c.chunk.js",
+    "static/js/2.2ab9254c.chunk.js.map": "/anitab-org.github.io/static/js/2.2ab9254c.chunk.js.map",
     "index.html": "/anitab-org.github.io/index.html",
-    "precache-manifest.05288865a0b7d19f40cf7a1e011a65e0.js": "/anitab-org.github.io/precache-manifest.05288865a0b7d19f40cf7a1e011a65e0.js",
+    "precache-manifest.48a743984f4b6ac5baa91f43c12be19b.js": "/anitab-org.github.io/precache-manifest.48a743984f4b6ac5baa91f43c12be19b.js",
     "service-worker.js": "/anitab-org.github.io/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/anitab-org.github.io/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.039a2631.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.039a2631.chunk.js.LICENSE.txt",
+    "static/js/2.2ab9254c.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.2ab9254c.chunk.js.LICENSE.txt",
     "static/media/Frame 1.png": "/anitab-org.github.io/static/media/Frame 1.7c53c6e8.png",
     "static/media/about.png": "/anitab-org.github.io/static/media/about.4e44d31d.png",
     "static/media/code.png": "/anitab-org.github.io/static/media/code.1587289c.png",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f14f3321.js",
-    "static/js/2.039a2631.chunk.js",
+    "static/js/2.2ab9254c.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.edb0d6dc.chunk.js"
+    "static/js/main.8bde41b4.chunk.js"
   ]
 }

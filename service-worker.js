@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anitab-org.github.io/precache-manifest.05288865a0b7d19f40cf7a1e011a65e0.js"
+  "/anitab-org.github.io/precache-manifest.48a743984f4b6ac5baa91f43c12be19b.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c91eb7ef271007b7b6db35f3a492b20",
+    "revision": "c02003e4dc40d6bd244db571a5095597",
     "url": "/anitab-org.github.io/index.html"
   },
   {
-    "revision": "9e88cb7492c1eaf29eb3",
+    "revision": "c3ba76651b51914c6c12",
     "url": "/anitab-org.github.io/static/css/main.69eda509.chunk.css"
   },
   {
-    "revision": "cc7fbd71b9daff1806a7",
-    "url": "/anitab-org.github.io/static/js/2.039a2631.chunk.js"
+    "revision": "ef82891251bdb0975d28",
+    "url": "/anitab-org.github.io/static/js/2.2ab9254c.chunk.js"
   },
   {
-    "revision": "6d5752827b48785282474b643cdf2ee2",
-    "url": "/anitab-org.github.io/static/js/2.039a2631.chunk.js.LICENSE.txt"
+    "revision": "74d9d71580c87b2d8c6d4307131d82df",
+    "url": "/anitab-org.github.io/static/js/2.2ab9254c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e88cb7492c1eaf29eb3",
-    "url": "/anitab-org.github.io/static/js/main.edb0d6dc.chunk.js"
+    "revision": "c3ba76651b51914c6c12",
+    "url": "/anitab-org.github.io/static/js/main.8bde41b4.chunk.js"
   },
   {
     "revision": "f849ebd811bad00d0ce7",
